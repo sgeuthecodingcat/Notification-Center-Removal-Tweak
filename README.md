@@ -1,2 +1,1 @@
-# Notification-Center-Removal-Tweak
-Notification Center Removal Registry Tweak for Windows 11, and Windows 10
+```Removes notification center from Windows 11 and Windows 10, use for theming```
