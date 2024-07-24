@@ -7,3 +7,9 @@ Under the name ``DisableNotificationCenter``
 
 # What can this be used for?
 Theming and personalization
+
+# Before and After
+## Before
+![](https://raw.githubusercontent.com/sgeuthecodingcat/notification-center-removal-tweak/main/Images/before.PNG)
+## After
+![](https://raw.githubusercontent.com/sgeuthecodingcat/notification-center-removal-tweak/main/Images/after.PNG)
